@@ -100,6 +100,7 @@ write_fold_data(datas, '增强后数据保存文件名')
 中的PairProcessor部分（31行左右）的对应训练数据名称train.csv替换成增强后的训练数据名称。
 
 **训练**
+
 在train.py指定好其余训练参数后。如下运行：
 ```
 CUDA_VISIBLE_DEVICES=0 python train.py \
