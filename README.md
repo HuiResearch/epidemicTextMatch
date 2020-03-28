@@ -5,6 +5,9 @@
 完全找不到下手的地方，其实我也是......我尝试了很多trick，但是有用的就
 四个：数据增强、fgm训练、调参以及模型融合。trick之少，可能会让大家有所失望，抱歉。
 
+
+[比赛链接](https://tianchi.aliyun.com/competition/entrance/231776/information)
+
 **方案介绍**
 ------
 ### **任务简介**
