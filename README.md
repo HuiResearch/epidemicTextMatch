@@ -2,7 +2,7 @@
 天池大赛疫情文本挑战赛线上第三名方案分享
 ====
 
-欢迎大家使用[tensorflow1.14下调用bert的小工具](https://github.com/huanghuidmml/textToy)
+欢迎大家使用[tensorflow1.x的bert系列模型库，支持单机多卡，梯度累积，自动导出pb部署](https://github.com/huanghuidmml/textToy)
 
 相信所有参赛人员都有种感觉，就是这次比赛的数据质量太好、bert模型太强，
 完全找不到下手的地方，其实我也是......我尝试了很多trick，但是有用的就
